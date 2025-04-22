@@ -15,6 +15,8 @@
             - Banker's offer at each decision point
             - Whether the player accepted the deal
             - Outcome had they continued playing
+    
+    There is documentation on what each part of the code does in the notebook itself, in the form of comments and markdown sections.
 
     📌 Note: The data is preloaded within the notebook. No external files are needed to run the analysis.
 
